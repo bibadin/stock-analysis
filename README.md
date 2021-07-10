@@ -6,8 +6,8 @@ The purpose of this project was to analyze thousands of stocks with working code
 Examples of code: If Cells(I + 1, 1).Value <> tickers(tickerIndex) And Cells(I, 1).Value = tickers(tickerIndex) Then tickerEndingPrices(tickerIndex) = Cells(I, 6).Value
 tickerIndex = tickerIndex + 1
 This code told the computer to automatically move onto the next set of stock tickers after finishing with previous set.
-![VBA_Challenge_2017.png] (path/to/VBA_Challenge_2017.png)
-![VBA_Challenge_2018.png] (path/to/VBA_Challenge_2018.png)
+![VBA_Challenge_2017.png](path/to/VBA_Challenge_2017.png)
+![VBA_Challenge_2018.png](path/to/VBA_Challenge_2018.png)
 ## Summary
 ### Advantages
 'what are advantages of refactoring code in general?'
